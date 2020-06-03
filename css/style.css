@@ -1,0 +1,49 @@
+#page {
+background-color: chocolate;
+}
+
+h1 {
+    color: cornsilk;
+    text-align: center;
+    background-color: darkblue;
+}
+
+p {
+color: darkorchid;
+background-color: darkseagreen;
+}
+
+h2 {
+    text-align: center;
+    color: firebrick;
+    background-color: gold;
+}
+
+.text {
+    color: gray;
+    background-color: greenyellow;
+}
+
+ol {
+    background-color: hotpink;
+color: khaki;
+}
+
+.item1 {
+
+    color: lime;
+}
+
+.item2 {
+    color: magenta;
+}
+
+.item3 {
+
+    color: maroon;
+}
+
+.item4 {
+
+    color: mediumorchid;
+}
